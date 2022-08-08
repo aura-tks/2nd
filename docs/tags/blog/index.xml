@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Introduction</title>
+    <link>https:///aura-tks.github.io/2nd/tags/blog/</link>
+    <description>Recent content in blog on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https:///aura-tks.github.io/2nd/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>オールX記念</title>
+      <link>https:///aura-tks.github.io/2nd/blog/allx/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https:///aura-tks.github.io/2nd/blog/allx/</guid>
+      <description>&lt;p&gt;今年の抱負を述べた記事(前ブログ)にて、「ロングブラスターネクロを使い、ガチマッチでオールXを達成する」と宣言しました。&lt;/p&gt;
+&lt;p&gt;先日(8月4日)に「&lt;del&gt;ロングブラスターネクロを使い、&lt;/del&gt; ガチマッチでオールXを達成する」という目標は達成したので、備忘録として日記にします。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>テスト</title>
+      <link>https:///aura-tks.github.io/2nd/blog/test/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https:///aura-tks.github.io/2nd/blog/test/</guid>
+      <description>これはテストです.
+このようにして見出しを作成できます.  このように 箇条書きが できます  見出しの大きさも変更できます.  添字付きの 箇条書きも できます  これくらいがちょうど良いと思います. 文字を修飾できます
+ 良い言葉 by 偉い人
+ </description>
+    </item>
+    
+  </channel>
+</rss>
