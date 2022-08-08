@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Introduction</title>
+    <link>http://example.com/home/</link>
+    <description>Recent content in Homes on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.com/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/home/about/</guid>
+      <description>This is Introduction, a minimalist website theme made for Hugo.
+Features  Responsive display on any size screen Light and Dark themes right out of the box Multilingual - supports side-by-side content in multiple languages Any number of custom index page sections from Markdown files Projects section with any number of projects: highly configurable as a photo gallery, modals, or external links Blog section with optional Latest Post, on the main page or as a separate section Styled Markdown throughout with support for Hugo&amp;rsquo;s syntax highlighting  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.com/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/home/contact/</guid>
+      <description>In the Contact section of Introduction, you may optionally display the current time in your preferred timezone.
+This lets visitors know what sort of response time to expect when they contact you. The timezone is easily set in the config.toml file. See the exampleSite configuration for instructions.</description>
+    </item>
+    
+  </channel>
+</rss>
