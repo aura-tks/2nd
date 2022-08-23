@@ -1,5 +1,5 @@
 ---
-title: "Plant"
+title: "Flowers"
 weight: 1
 ---
 

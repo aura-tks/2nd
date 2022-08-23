@@ -1,5 +1,5 @@
 ---
-title: "Photo"
+title: "Photos"
 weight: 1
 ---
 
